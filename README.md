@@ -10,6 +10,7 @@ The project focuses on building a high-performance classification model using XG
 
 The dataset used in this project was artificially generated and provided by the professor in my college. It consists of 1.2 million rows and 16 columns, including the target variable, Class, which is the primary focus of the classification task. This large dataset was specifically designed to simulate real-world scenarios, enabling the development and evaluation of predictive models in a controlled environment. The dataset offers diverse features that allow for in-depth analysis and model training, making it an ideal resource for this machine learning project.
 
+I have included only a small portion of the dataset here due to the large size of the full file. If you require access to the entire dataset, please feel free to reach out to me at siddhantsarnobat20@gmail.com, or you can access the full dataset via this Google Drive link: https://drive.google.com/drive/folders/1WwZpfLCrK5S4GK3bl3MGyo2BGKqu9gN4?usp=sharing
 
 ## Project Structure
 
